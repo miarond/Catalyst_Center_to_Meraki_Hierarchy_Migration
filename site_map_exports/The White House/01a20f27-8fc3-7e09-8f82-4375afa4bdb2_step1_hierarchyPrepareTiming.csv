@@ -1,0 +1,3 @@
+instanceId,instanceUuid,hierarchyName,type,startTimeDomain,endTimeDomain,durationDomain,durationDomainRead,durationType,,01a20f27-8fc3-7e09-8f82-4375afa4bdb2_step1_hierarchyPrepareTiming.csv
+3676719152,d3193546-df56-44e4-a0ec-8e03d4cbf754,Global>AMER>United States>Washington D.C.>The White House,2,1795550582278,1795550582281,3,1,1,
+3676719153,ca1679cd-0244-4722-90c4-0b9ab9e82823,Global>AMER>United States>Washington D.C.>The White House>First Floor,4,1795550582281,1795550582283,2,1,1,

@@ -1,0 +1,3 @@
+type,name,address,country,floorNumber,org_id,network_id,assigned_building_name,top_left_lat,top_left_long,bottom_left_lat,bottom_left_long,image_filename
+building,The White House,"1600 Pennsylvania Avenue Northwest, Washington, District of Columbia 20500, United States",United States,0,0,L_0000000,,,,,,
+floor,First Floor,,,1,0,L_0000000,The White House,38.89796075,-77.03686553,38.89745701,-77.03686267,5ed47005-93da-4c0b-a029-916a26c8f5da.png

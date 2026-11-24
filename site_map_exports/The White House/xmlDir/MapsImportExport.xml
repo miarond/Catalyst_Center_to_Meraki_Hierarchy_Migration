@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CiscoUnifiedInterchange xmlns="http://importexport.cisco.com/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ver="1.0" source="Cisco DNA Center" createdOn="1795550582276" lastUpdated="1795550582276" angleUnits="DEGREE" distUnits="FEET">
+    <Maps>
+        <ObstacleType uuid="058e3791-b815-49ab-9373-5e84a0f18a68" attenuation="3.0" name="Glass, Exterior" family="wall" extraAttr="{&quot;thickness&quot;:0.0625}"/>
+        <ObstacleType uuid="16145cd6-fb88-4c4e-b7ea-bb7cc162eaa4" attenuation="15.0" name="Shelving, 30 ft" family="rack" extraAttr="{&quot;content&quot;:{&quot;color&quot;:&quot;#c09540&quot;,&quot;opacity&quot;:1,&quot;texture&quot;:null,&quot;attenuation&quot;:15},&quot;height&quot;:30.00,&quot;rows&quot;:6,&quot;columnWidth&quot;:6.00,&quot;baseThickness&quot;:0.2,&quot;pillarThickness&quot;:0.2}"/>
+        <ObstacleType uuid="2fe4b17e-4338-43ca-b925-edb98beeb7dc" attenuation="0.0" name="Opening" family="opening" extraAttr=""/>
+        <ObstacleType uuid="309911a8-9d33-4b91-927a-414679874c2e" attenuation="0.0" name="Align Points" family="refpoints" extraAttr=""/>
+        <ObstacleType uuid="36c88b3a-f889-4cab-a543-fb8db75f5109" attenuation="15.0" name="Medium Floor" family="floor" extraAttr="{&quot;default&quot;: true }"/>
+        <ObstacleType uuid="3e53f85e-3b89-4f52-ab23-dcafdb19d805" attenuation="10.0" name="Wall, Brick" family="wall" extraAttr="{&quot;thickness&quot;:0.4167}"/>
+        <ObstacleType uuid="40c57704-7bdb-4cbd-b1fc-7cd600351e20" attenuation="15.0" name="Shelving, 20 ft" family="rack" extraAttr="{&quot;content&quot;:{&quot;color&quot;:&quot;#c09540&quot;,&quot;opacity&quot;:1,&quot;texture&quot;:null,&quot;attenuation&quot;:15},&quot;height&quot;:20.00,&quot;rows&quot;:4,&quot;columnWidth&quot;:5.00,&quot;baseThickness&quot;:0.2,&quot;pillarThickness&quot;:0.2}"/>
+        <ObstacleType uuid="4b2571be-15df-45f8-a11c-106884051375" attenuation="10.0" name="Light Floor" family="floor" extraAttr=""/>
+        <ObstacleType uuid="51a34041-9630-4e8e-b4a8-ba838f7e50c2" attenuation="5.0" name="Wall, Hollow Block" family="wall" extraAttr="{&quot;thickness&quot;:0.3333}"/>
+        <ObstacleType uuid="5dbd8a76-e4c8-4492-b7c1-57c36814aae7" attenuation="15.0" name="Computer Rack" family="wall" extraAttr="{&quot;thickness&quot;:0.0}"/>
+        <ObstacleType uuid="6e999650-07dd-4ef5-88c9-c41bcf8e125d" attenuation="5.0" name="Door, Wood" family="wall" extraAttr="{&quot;thickness&quot;:0.125}"/>
+        <ObstacleType uuid="7e0bc8ea-6f0c-4535-8027-6f7fc43252b7" attenuation="1.0" name="Cubicle/Panel" family="wall" extraAttr="{&quot;thickness&quot;:0.0833}"/>
+        <ObstacleType uuid="7edecb77-8a09-4c72-a346-25161311c553" attenuation="50.0" name="Extremely Heavy Floor" family="floor" extraAttr=""/>
+        <ObstacleType uuid="81bbc3a0-0952-4fe3-b983-2564d2eec206" attenuation="12.0" name="Wall, Concrete" family="wall" extraAttr="{&quot;thickness&quot;:0.50}"/>
+        <ObstacleType uuid="88f0b671-01c0-4029-b31a-9a40df192d24" attenuation="20.0" name="Iron Pillar" family="wall" extraAttr="{&quot;thickness&quot;:0.0833}"/>
+        <ObstacleType uuid="8a153d83-70f4-4082-bfec-2c0fc21b885d" attenuation="20.0" name="Heavy Floor" family="floor" extraAttr=""/>
+        <ObstacleType uuid="90853ad9-872c-47b0-8df4-29db0de621c0" attenuation="30.0" name="Elevator Shaft" family="wall" extraAttr="{&quot;thickness&quot;:0.25}"/>
+        <ObstacleType uuid="9a0961af-c476-49d2-ab16-5e28f55b568b" attenuation="3.0" name="Wall, Dry" family="wall" extraAttr="{&quot;thickness&quot;:0.1667}"/>
+        <ObstacleType uuid="9e4440f3-8a83-4420-a249-7450fc0b10ff" attenuation="3.0" name="Wall, Dry (Copy)" family="wall" extraAttr="{&quot;thickness&quot;:0.1667}"/>
+        <ObstacleType uuid="a2c8a3b0-0b0f-4f0d-af33-64b0499dc1ef" attenuation="15.0" name="Door, Steel" family="wall" extraAttr="{&quot;thickness&quot;:0.1667}"/>
+        <ObstacleType uuid="ceebc43c-5455-4f56-b47f-038a30f80dc5" attenuation="1.0" name="Glass, Interior" family="wall" extraAttr="{&quot;thickness&quot;:0.0417}"/>
+        <ObstacleType uuid="df1d8976-e046-4e33-ae7a-6ecce5687b02" attenuation="30.0" name="Very Heavy Floor" family="floor" extraAttr=""/>
+        <ObstacleType uuid="fc1d9d32-ceeb-4253-a243-685f882733f5" attenuation="2.0" name="Door, Light" family="wall" extraAttr="{&quot;thickness&quot;:0.125}"/>
+        <Site name="AMER">
+            <Site name="United States">
+                <Site name="Washington D.C.">
+                    <Building name="The White House">
+                        <Floor name="First Floor" level="1">
+                            <Obstacles obstacleTypeUuid="36c88b3a-f889-4cab-a543-fb8db75f5109" extraJson="{&quot;thickness&quot;:&quot;2&quot;}">
+                                <ObstaclePoints>0.0,0.0:1.0,0.0:1.0,1.0:0.0,1.0:0.0,0.0</ObstaclePoints>
+                            </Obstacles>
+                            <Region name="" type="Exclusion region">
+                                <CoordinatePoint xCoordinate="0.0" yCoordinate="0.0" zCoordinate="0.0"/>
+                                <CoordinatePoint xCoordinate="126.0" yCoordinate="0.0" zCoordinate="0.0"/>
+                                <CoordinatePoint xCoordinate="126.0" yCoordinate="100.0" zCoordinate="0.0"/>
+                                <CoordinatePoint xCoordinate="0.0" yCoordinate="100.0" zCoordinate="0.0"/>
+                            </Region>
+                            <Dimension length="100.0" width="126.0" height="15.0"/>
+                            <ImageInfo imageName="5ed47005-93da-4c0b-a029-916a26c8f5da.png" imageType="PNG"/>
+                        </Floor>
+                        <CivicAddress latitude="38.897684" longitude="-77.036574" altitude="0.0"/>
+                    </Building>
+                </Site>
+            </Site>
+        </Site>
+    </Maps>
+</CiscoUnifiedInterchange>

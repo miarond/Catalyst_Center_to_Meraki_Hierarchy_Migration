@@ -1,0 +1,3 @@
+type,name,id,parent,nameHierarchy,center_lat,center_long,address,country,floorNumber
+building,The White House,d3193546-df56-44e4-a0ec-8e03d4cbf754,,Global/AMER/United States/Washington D.C./The White House,38.897682,-77.036575,"1600 Pennsylvania Avenue Northwest, Washington, District of Columbia 20500, United States",United States,0
+floor,First Floor,ca1679cd-0244-4722-90c4-0b9ab9e82823,,Global/AMER/United States/Washington D.C./The White House/First Floor,0,0,,,1

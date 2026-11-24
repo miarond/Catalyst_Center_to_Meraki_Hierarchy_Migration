@@ -1,0 +1,4 @@
+instanceId,instanceUuid,hierarchyName,type,startTimeDomain,endTimeDomain,durationDomain,drillDownTime,,01a20f27-8fc3-7e09-8f82-4375afa4bdb2_step2_hierarchyPopulateTiming.csv
+3676719151,adea40ed-a042-4709-b6f6-b0bc9d87910d,Global>AMER>United States>Washington D.C.,1,1795550582283,1795550582285,2,
+3676719152,d3193546-df56-44e4-a0ec-8e03d4cbf754,Global>AMER>United States>Washington D.C.>The White House,2,1795550582285,1795550582287,2,
+3676719153,ca1679cd-0244-4722-90c4-0b9ab9e82823,Global>AMER>United States>Washington D.C.>The White House>First Floor,4,1795550582287,1795550582296,9,BaseFloorAttributes:0 Aps:0[] Paps:1 GpsMarkers:2 CalibrationModel:0 Obstacle:1 Custom Obstacles:0 CoverageArea:1 Region:1 Marker:0 Image:3,
